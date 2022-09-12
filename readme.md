@@ -1,6 +1,6 @@
 # WeSplit
 
-![./app.png](Screenshot of the app)
+![Screenshot of the app](./app.png)
 
 This is a tipping calculator written with SwiftUI with lots of little features to make calculating a tip easy in all circumstances.
 
