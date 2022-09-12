@@ -4,6 +4,8 @@
 
 This is a tipping calculator written with SwiftUI with lots of little features to make calculating a tip easy in all circumstances.
 
+The bulk on the app is in [ContentView.swift](https://github.com/nicolecomputer/we-split/blob/main/WeSplit.swiftpm/ContentView.swift)
+
 ## Guide
 
 This started life as a [tutorial project](https://www.hackingwithswift.com/books/ios-swiftui/wesplit-introduction) and grew as I added features that were interesting to me.
